@@ -1,0 +1,24 @@
+{
+  "name": "psql_optimalizer",
+  "version": "0.5.0",
+  "description": "PostgreSQL query optimizer in GraphQL environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinkog/psql_optimalizer.git"
+  },
+  "keywords": [
+    "GrapQL",
+    "PostgreSQL",
+    "Query"
+  ],
+  "author": "Gábor Zoltán Sinkó",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinkog/psql_optimalizer/issues"
+  },
+  "homepage": "https://github.com/sinkog/psql_optimalizer#readme"
+}
